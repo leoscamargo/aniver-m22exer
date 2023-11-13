@@ -12,6 +12,9 @@
     color: variables.$textColor;
     list-style: none;
 }
+body{
+    overflow-x: hidden;
+}
 
 .container{
     max-width: 960px;
